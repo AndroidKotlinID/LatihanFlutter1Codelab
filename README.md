@@ -1,6 +1,7 @@
-# flutter_application1
+# LatihanFlutterPertama
 
-A new Flutter project.
+A new Flutter project. Latihan menggunakan codelab yang bersumber dari halaman latihan Flutter.
+[https://flutter.dev/docs/get-started/codelab](https://flutter.dev/docs/get-started/codelab)
 
 ## Getting Started
 
